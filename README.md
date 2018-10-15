@@ -20,3 +20,7 @@ Using '!!': Runs the most recent command from the history.
 # Signals
 
 Ctrl-c: This will display the history.
+
+# Makefile
+
+Compiles shell.c. Run as ./shell
